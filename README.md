@@ -17,7 +17,9 @@ programming while demonstrating how to move the turtle. Simplicity and a
 colorful visual appearance makes the learning environment more appealing
 to students.
 
-![Screen shot](http://pythonturtle.org/images/screenshot.gif)
+![Screen shot](./doremon1.png)
+![image](./doremon2.png)
+
 
 ## Installation
 
